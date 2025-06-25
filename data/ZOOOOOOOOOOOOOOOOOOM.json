@@ -1,16 +1,14 @@
 {
-	"id": 95228237,
-	"name": "Soon",
-	"tags": [
-		"Esta cosa terminara despues",
+	"id": 1,
+	"name": "Pronto...",
+	"author": "Test3",
+	"creators": [
+		"Test1",
+		"Test2"
 	],
-	"author": "User",
-	"creators": [],
-	"verifier": "User2",
-	"verification": "https://youtube.com/@Vobyh",
-	"percentToQualify": 100,
-	"password": "No Copy",
-	"records": [
-		}
-	]
+	"verifier": "verifier",
+	"verification": "link verification",
+	"percentToQualify": 51,
+	"password": "put here password",
+	"records": []
 }
